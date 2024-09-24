@@ -1,7 +1,7 @@
 # Project Overview
 This project is a React-based application designed to manage contacts and appointments. The app allows users to add, view, and manage contacts as well as schedule appointments, providing a simple and efficient way to handle personal or professional scheduling.
 
-live link : 
+live link : https://react03-appointment-planner.netlify.app
 
 ## Features
 Contacts Management: Add and view a list of contacts, including details such as name, phone number, and email.
